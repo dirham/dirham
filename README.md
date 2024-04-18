@@ -5,7 +5,6 @@
 
 - 🌱 I’m revisiting **Frontend And Algorithm**
 
-- 💬 Ask me about **Go, Laravel, Node.js, Microservice**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
